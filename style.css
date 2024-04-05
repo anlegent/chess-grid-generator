@@ -1,0 +1,21 @@
+body {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#blackTile {
+background-color: saddlebrown;
+size: 50px;
+}
+
+#whiteTile {
+background-color:peru;
+size: 50px;
+}
+
+#board {
+width: 500px;
+height: 500px;
+background-color: rgb(20, 20, 20);
+}
